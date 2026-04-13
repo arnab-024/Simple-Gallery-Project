@@ -21,6 +21,9 @@ A responsive image gallery app built with React.js that fetches random photos fr
 
 ## 🚀 Run Locally
 git clone <your-repo-url>
+
 cd Simple-Gallery-Project
+
 npm install
+
 npm run dev
